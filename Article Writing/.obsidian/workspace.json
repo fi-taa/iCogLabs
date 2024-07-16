@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "64f79768576df751",
+    "type": "split",
+    "children": [
+      {
+        "id": "43e6e540f0472e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741f306754feda9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/letena/scope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "365997f718ffa1fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe44191cda95b99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aaeb8e324271858",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66867861b21eeed4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "379dc244784f4c82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7aa379c2212edce3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f5b1f7d5a7ecaf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac524f6a0d3e90c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/letena/scope.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5aab846d0243deb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Main Notes/letena/scope.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28e1094db404d9a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2321ec67351e6d0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Main Notes/letena/scope.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "741f306754feda9b",
+  "lastOpenFiles": [
+    "6 - Main Notes/functional-programming/Introduction.md",
+    "6 - Main Notes/letena/scope.md",
+    "6 - Main Notes/letena",
+    "6 - Main Notes/functional-programming/Disadvantage of FP.md",
+    "6 - Main Notes/functional-programming/Advantages of FP.md",
+    "6 - Main Notes/functional-programming/Tenets of FP.md",
+    "3 - Tags/AGI.md",
+    "6 - Main Notes/Arity.md",
+    "6 - Main Notes/A-learning-algorithm/Transfer learning.md",
+    "6 - Main Notes/functional-programming",
+    "6 - Main Notes/A-learning-algorithm/error analysis.md",
+    "6 - Main Notes/A-learning-algorithm/AI Engineering Approaches.md",
+    "6 - Main Notes/A-learning-algorithm/Process of developing ML.md",
+    "6 - Main Notes/A-learning-algorithm/Building a spam classifier.md",
+    "6 - Main Notes/A-learning-algorithm/Bias and Variance.md",
+    "6 - Main Notes/High Variance.md",
+    "6 - Main Notes/Training error.md",
+    "6 - Main Notes/2024-07-11.md",
+    "6 - Main Notes/A-learning-algorithm",
+    "2 - Source Material/Artificial General Intelligence - Concept, State of the Art, and Future Prospects.md",
+    "6 - Main Notes/AGI - CSF/6 - Integrative Approaches to AGI - Combining Strengths for Success.md",
+    "6 - Main Notes/AGI - CSF/5 - Ethical Considerations - Building AGI with Responsibility.md",
+    "6 - Main Notes/AGI - CSF/4 - The Future of AGI - Predictions and Possibilities.md",
+    "6 - Main Notes/AGI - CSF/3 - Challenges on the Road to AGI - Technical and Philosophical Hurdles.md",
+    "6 - Main Notes/AGI - CSF/2 - The Landscape of Current AGI Research.md",
+    "6 - Main Notes/AGI - CSF/1 - The Quest for True Machine Intelligence.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "6 - Main Notes/summarized.md",
+    "6 - Main Notes/AGI - CSF",
+    "6 - Main Notes/AGI - CSF",
+    "6 - Main Notes/\"the creation of thinking machines with general intelligence comparable to, or greater than,that of human beings?\".md",
+    "Untitled",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags"
+  ]
+}
